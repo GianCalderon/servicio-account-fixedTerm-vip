@@ -1,4 +1,4 @@
-package com.springboot.fixedTermVipAccount;
+package com.springboot.fixedTermAccountVip;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
